@@ -29,4 +29,9 @@ Run the API:
 Whats implemented?
 ==================
 
-You can see the API docs on ``localhost:42432/docs``; The ``/botnet`` and the ``/bot`` routes are implemneted. The ``/config`` route is TBD.
+You can see the API docs on ``localhost:42432/docs``; The ``/botnet``, ``/bot`` and ``/config`` routes are implemented. Using the ``/config`` route you can ``PUT`` configuration.
+
+TODO
+====
+
+Authentication
